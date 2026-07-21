@@ -25,11 +25,11 @@ https://vtvgolive-vtv02.vtvdigital.vn/9M58e5DJONm0c9dTPFkAWg/1784607233/hls/vtv/
 https://vtvgolive-vtv02.vtvdigital.vn/nmulJLCcBdhz_fx_807cyw/1784607256/hls/vtv/live/vtv10__vtv480p-h264/index.m3u8
 
 #EXTM3U
-#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/todo-no-tsumari/cover-ep-2.webp",Todo no Tsumari - 2
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/todo-no-tsumari/cover-ep-2.webp", Todo no Tsumari - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://imoto-str.ane-h.xyz/2026/Todo.no.Tsumari/E02/720/manifest.mpd
 
-#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/todo-no-tsumari/cover-ep-1.webp",Todo no Tsumari - 1
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/todo-no-tsumari/cover-ep-1.webp", Todo no Tsumari - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://koneko-str.musume-h.xyz/2026/Todo.no.Tsumari/E01/720/manifest.mpd
 
@@ -381,6 +381,583 @@ https://imoto-str.ane-h.xyz/2024/Dearest.Blue/E02/720/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://chibi-str.imoto-h.xyz/2024/Dearest.Blue/E01/720/manifest.mpd&selected_id=0
 
-#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/dearest-blue/cover-ep-1.webp", Dearest Blue - 1
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-orc-heidan/cover-ep-2.webp", JK to Orc Heidan - 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://chibi-str.imoto-h.xyz/2024/Dearest.Blue/E01/720/manifest.mpd&selected_id=0
+https://koneko-str.musume-h.xyz/2024/JK.to.Orc.Heidan/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-orc-heidan/cover-ep-1.webp", JK to Orc Heidan - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/JK.to.Orc.Heidan/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/tsuma-wo-dousoukai-ni-ikasetara/cover-ep-2.webp", Tsuma wo Dousoukai ni Ikasetara - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Tsuma.o.Dousoukai.ni.Ikasetara/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/tsuma-wo-dousoukai-ni-ikasetara/cover-ep-1.webp", Tsuma wo Dousoukai ni Ikasetara - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Tsuma.o.Dousoukai.ni.Ikasetara/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/netorare-fighter-yaricchingu/cover-ep-3.webp", Netorare Fighter Yaricchingu! - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Netorare.Fighter.Yaricchingu/E03/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/netorare-fighter-yaricchingu/cover-ep-2.webp", Netorare Fighter Yaricchingu! - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Netorare.Fighter.Yaricchingu/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/netorare-fighter-yaricchingu/cover-ep-1.webp", Netorare Fighter Yaricchingu! - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Netorare.Fighter.Yaricchingu/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/helter-skelter-hakudaku-no-mura/cover-ep-4.webp", Helter Skelter: Hakudaku no Mura - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Helter.Skelter/E04v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/helter-skelter-hakudaku-no-mura/cover-ep-3.webp", Helter Skelter: Hakudaku no Mura - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Helter.Skelter/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/helter-skelter-hakudaku-no-mura/cover-ep-2.webp", Helter Skelter: Hakudaku no Mura - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Helter.Skelter/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/helter-skelter-hakudaku-no-mura/cover-ep-1.webp", Helter Skelter: Hakudaku no Mura - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Helter.Skelter/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/seiyoku-tsuyotsuyo-the-animation/cover-ep-1.webp", Seiyoku Tsuyotsuyo The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Seiyoku.Tsuyotsuyo/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/seiyoku-tsuyotsuyo-the-animation/cover-ep-2.webp", Seiyoku Tsuyotsuyo The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Seiyoku.Tsuyotsuyo/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Torudaya" tvg-logo="https://hstream.moe/images/hentai/haramaseya-the-animation/cover-ep-2.webp", Haramaseya The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Haramaseya.The.Animation/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Torudaya" tvg-logo="https://hstream.moe/images/hentai/haramaseya-the-animation/cover-ep-1.webp", Haramaseya The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Haramaseya.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="MS Pictures" tvg-logo="https://hstream.moe/images/hentai/maro-no-kanja-wa-gatenkei/cover-ep-1.webp", Maro no Kanja wa Gatenkei - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Maro.no.Kanja.wa.Gatenkei/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="MS Pictures" tvg-logo="https://hstream.moe/images/hentai/maro-no-kanja-wa-gatenkei/cover-ep-2.webp", Maro no Kanja wa Gatenkei - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Maro.no.Kanja.wa.Gatenkei/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/yabai-fukushuu-yami-site/cover-ep-2.webp", Yabai! Fukushuu Yami Site - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Yabai.Fukushuu.Yami.Site/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/yabai-fukushuu-yami-site/cover-ep-1.webp", Yabai! Fukushuu Yami Site - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Yabai.Fukushuu.Yami.Site/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita/cover-ep-4.webp", Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Do.S.na.Maina.Kaichousama.ga.M.Note.ni.Shihai.Saremashita/E04v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita/cover-ep-3.webp", Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Do.S.na.Maina.Kaichousama.ga.M.Note.ni.Shihai.Saremashita/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita/cover-ep-2.webp", Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Do.S.na.Maina.Kaichousama.ga.M.Note.ni.Shihai.Saremashita/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita/cover-ep-1.webp", Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Do.S.na.Maina.Kaichousama.ga.M.Note.ni.Shihai.Saremashita/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/kuraibito/cover-ep-1.webp", Kuraibito - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Kuraibito/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/watashi-no-shiranai-mesu-no-kao/cover-ep-1.webp", Watashi no Shiranai Mesu no Kao - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Watashi.no.Shiranai.Mesu.no.Kao/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/69-itsuwari-no-bishou/cover-ep-2.webp", 69: Itsuwari no Bishou - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/69.Itsuwari.no.Bishou/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/69-itsuwari-no-bishou/cover-ep-1.webp", 69: Itsuwari no Bishou - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/69.Itsuwari.no.Bishou/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="SELFISH" tvg-logo="https://hstream.moe/images/hentai/gaki-ni-modotte-yarinaoshi/cover-ep-2.webp", 69: Gaki ni Modotte Yarinaoshi!!! - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Gaki.ni.Modotte.Yarinaoshi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="SELFISH" tvg-logo="https://hstream.moe/images/hentai/gaki-ni-modotte-yarinaoshi/cover-ep-1.webp", 69: Gaki ni Modotte Yarinaoshi!!! - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Gaki.ni.Modotte.Yarinaoshi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Frontier Works" tvg-logo="https://hstream.moe/images/hentai/aki-sora-yume-no-naka/cover-ep-1.webp", Aki Sora: Yume no Naka - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Aki.Sora.Yume.no.Naka/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Frontier Works" tvg-logo="https://hstream.moe/images/hentai/aki-sora-yume-no-naka/cover-ep-2.webp", Aki Sora: Yume no Naka - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Aki.Sora.Yume.no.Naka/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-1.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-2.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-3.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E03/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-4.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E04/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-5.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E05/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-6.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E06/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/araiya-san-ore-to-aitsu-ga-onnayu-de/cover-ep-7.webp", Araiya-san!: Ore to Aitsu ga Onnayu de!? - 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Araiyasan.Ore.to.Aitsu.ga.Onnayu.de/E07/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/ryoujoku-famiresu-choukyou-menu/cover-ep-1.webp", Ryoujoku Famiresu Choukyou Menu - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Ryoujoku.Famiresu.Choukyou.Menu/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/ryoujoku-famiresu-choukyou-menu/cover-ep-2.webp", Ryoujoku Famiresu Choukyou Menu - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Ryoujoku.Famiresu.Choukyou.Menu/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-9.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E09/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-7.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E07/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-6.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E06/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-5.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E05/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-4.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E04/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-3.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E03/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-2.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Suiseisha" tvg-logo="https://hstream.moe/images/hentai/joshiochi-2-kai-kara-onnanoko-ga-futtekita/cover-ep-1.webp", Joshiochi! 2-kai kara Onnanoko ga... Futtekita!? - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Joshiochi.Kai.Kara.Onnanoko.Ga.Futtekita/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/hatsukoi-jikan/cover-ep-6.webp", Hatsukoi Jikan - 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Hatsukoi.Jikan/E06/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/hatsukoi-jikan/cover-ep-4.webp", Hatsukoi Jikan - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Hatsukoi.Jikan/E04/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/hatsukoi-jikan/cover-ep-3.webp", Hatsukoi Jikan - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Hatsukoi.Jikan/E03/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/hatsukoi-jikan/cover-ep-2.webp", Hatsukoi Jikan - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Hatsukoi.Jikan/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/hatsukoi-jikan/cover-ep-1.webp", Hatsukoi Jikan - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Hatsukoi.Jikan/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/rin-x-sen-hakudaku-onna-kyoushi-to-yaroudomo/cover-ep-2.webp", Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Rin.x.Sen.Hakudaku.Onna.Kyoushi.to.Yaroudomo/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/rin-x-sen-hakudaku-onna-kyoushi-to-yaroudomo/cover-ep-1.webp", Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Rin.x.Sen.Hakudaku.Onna.Kyoushi.to.Yaroudomo/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/ane-jiyoku-tsukushi-neesan-no-shitagi/cover-ep-2.webp", Ane Jiyoku Tsukushi: Neesan no Shitagi - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Ane.Jiyoku.Tsukushi.Neesan.no.Shitagi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/ane-jiyoku-tsukushi-neesan-no-shitagi/cover-ep-1.webp", Ane Jiyoku Tsukushi: Neesan no Shitagi - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Ane.Jiyoku.Tsukushi.Neesan.no.Shitagi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/koiito-kinenbi-the-animation/cover-ep-2.webp", Koiito Kinenbi The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Koiito.Kinenbi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/koiito-kinenbi-the-animation/cover-ep-1.webp", Koiito Kinenbi The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Koiito.Kinenbi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/mihitsu-no-koi/cover-ep-2.webp", Mihitsu no Koi - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Mihitsu.no.Koi/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/mihitsu-no-koi/cover-ep-1.webp", Mihitsu no Koi - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Mihitsu.no.Koi/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/daraku-reijou-the-animation-hakoiri-ojousama-netorare-choukyou-kiroku/cover-ep-1.webp", Daraku Reijou The Animation: Hakoiri Ojousama Choukyou Kiroku - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Daraku.Reijou/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Studio 1st" tvg-logo="https://hstream.moe/images/hentai/amanee-tomodachinchi-de-konna-koto-ni-naru-nante/cover-ep-1.webp", Amanee!: Tomodachinchi de Konna Koto ni Naru Nante! - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Amanee/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/nariyukipapakatsu-girls-the-animation/cover-ep-2.webp", Nariyuki→Papakatsu Girls!! The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Nariyuki.Papakatsu.Girls.The.Animation/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/nariyukipapakatsu-girls-the-animation/cover-ep-1.webp", Nariyuki→Papakatsu Girls!! The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Nariyuki.Papakatsu.Girls.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-2-harvest/cover-ep-1.webp", Oni Chichi 2: Harvest - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Oni.Chichi.2.Harvest/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-2-revenge/cover-ep-2.webp", Oni Chichi 2: Revenge - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Oni.Chichi.2.Revenge/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-2-revenge/cover-ep-1.webp", Oni Chichi 2: Revenge - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Oni.Chichi.2.Revenge/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-2/cover-ep-2.webp", Oni Chichi 2 - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Oni.Chichi.2/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-2/cover-ep-1.webp", Oni Chichi 2 - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Oni.Chichi.2/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-kakeeshon/cover-ep-1.webp", Oni Chichi: Kakeeshon - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Oni.Chichi.Kakeeshon/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-refresh/cover-ep-4.webp", Oni Chichi: Refresh - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Oni.Chichi.Refresh/E04v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-refresh/cover-ep-3.webp", Oni Chichi: Refresh - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Oni.Chichi.Refresh/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-refresh/cover-ep-2.webp", Oni Chichi: Refresh - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2024/Oni.Chichi.Refresh/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-refresh/cover-ep-1.webp", Oni Chichi: Refresh - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Oni.Chichi.Refresh/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-rebuild/cover-ep-3.webp", Oni Chichi: Rebuild - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Oni.Chichi.Rebuild/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-rebuild/cover-ep-2.webp", Oni Chichi: Rebuild - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Oni.Chichi.Rebuild/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-rebuild/cover-ep-1.webp", Oni Chichi: Rebuild - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Oni.Chichi.Rebuild/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-re-born/cover-ep-2.webp", Oni Chichi: Re-born - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Oni.Chichi.Reborn/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-re-born/cover-ep-1.webp", Oni Chichi: Re-born - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2024/Oni.Chichi.Reborn/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi-re-birth/cover-ep-1.webp", Oni Chichi: Re-birth - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Oni.Chichi.Rebirth/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi/cover-ep-2.webp", Oni Chichi - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2024/Oni.Chichi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oni-chichi/cover-ep-1.webp", Oni Chichi - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Oni.Chichi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="MS Pictures" tvg-logo="https://hstream.moe/images/hentai/tonys-heroine-series-kanojo-wa-hanayome-kouhosei-cinderella-collection/cover-ep-2.webp", Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2024/Tonys.Heroine.Series.Kanojo.wa.Hanayome.Kouhosei/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="MS Pictures" tvg-logo="https://hstream.moe/images/hentai/tonys-heroine-series-kanojo-wa-hanayome-kouhosei-cinderella-collection/cover-ep-1.webp", Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2024/Tonys.Heroine.Series.Kanojo.wa.Hanayome.Kouhosei/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/so-low/cover-ep-2.webp", So_low - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/So_low/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Nur" tvg-logo="https://hstream.moe/images/hentai/so-low/cover-ep-1.webp", So_low - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/So_low/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/harem-time-the-animation/cover-ep-2.webp", Harem Time The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Harem.Time.The.Animation/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/harem-time-the-animation/cover-ep-1.webp", Harem Time The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Harem.Time.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/shihai-no-kyoudan/cover-ep-2.webp", Shihai no Kyoudan - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Shihai.no.Kyoudan/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/girls-rush-the-animation/cover-ep-2.webp", Girls Rush The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Girls.Rush.The.Animation/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/girls-rush-the-animation/cover-ep-1.webp", Girls Rush The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Girls.Rush.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/korashime-2-kyouikuteki-depaga-shidou/cover-ep-4.webp", Korashime 2: Kyouikuteki Depaga Shidou - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Korashime.2.Kyouikuteki.Depaga.Shidou/E04/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/korashime-2-kyouikuteki-depaga-shidou/cover-ep-3.webp", Korashime 2: Kyouikuteki Depaga Shidou - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Korashime.2.Kyouikuteki.Depaga.Shidou/E03/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/korashime-2-kyouikuteki-depaga-shidou/cover-ep-2.webp", Korashime 2: Kyouikuteki Depaga Shidou - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Korashime.2.Kyouikuteki.Depaga.Shidou/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/korashime-2-kyouikuteki-depaga-shidou/cover-ep-1.webp", Korashime 2: Kyouikuteki Depaga Shidou - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Korashime.2.Kyouikuteki.Depaga.Shidou/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="BreakBottle" tvg-logo="https://hstream.moe/images/hentai/toriko-no-kusari-shojo-tachi-wo-yogosu-midara-na-kusabi/cover-ep-2.webp", Toriko no Kusari: Shojo-tachi wo Yogosu Midara na Kusabi - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Toriko.no.Kusari.Shojotachi.o.Yogosu.Midara.na.Kusabi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="BreakBottle" tvg-logo="https://hstream.moe/images/hentai/toriko-no-kusari-shojo-tachi-wo-yogosu-midara-na-kusabi/cover-ep-1.webp", Toriko no Kusari: Shojo-tachi wo Yogosu Midara na Kusabi - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Toriko.no.Kusari.Shojotachi.o.Yogosu.Midara.na.Kusabi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="SELFISH" tvg-logo="https://hstream.moe/images/hentai/nuresuke-jk-ameyadori-rape/cover-ep-2.webp", Nuresuke JK Ameyadori Rape - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Nuresuke.JK.Amayadori.Rape/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="SELFISH" tvg-logo="https://hstream.moe/images/hentai/nuresuke-jk-ameyadori-rape/cover-ep-1.webp", Nuresuke JK Ameyadori Rape - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Nuresuke.JK.Amayadori.Rape/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/kuro-no-kyoushitsu/cover-ep-2.webp", Kuro no Kyoushitsu - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Kuro.no.Kyoushitsu/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/kuro-no-kyoushitsu/cover-ep-1.webp", Kuro no Kyoushitsu - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Kuro.no.Kyoushitsu/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/ero-manga-h-mo-manga-mo-step-up/cover-ep-2.webp", Ero Manga! H mo Manga mo Step-up - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Ero.Manga.H.mo.Manga.mo.Stepup/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/ero-manga-h-mo-manga-mo-step-up/cover-ep-1.webp", Ero Manga! H mo Manga mo Step-up - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Ero.Manga.H.mo.Manga.mo.Stepup/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/kimi-ga-suki-the-animation/cover-ep-1.webp", Kimi ga Suki. The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Kimi.ga.Suki.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="MS Pictures" tvg-logo="https://hstream.moe/images/hentai/ikenai-koto-the-animation/cover-ep-1.webp", Ikenai Koto The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Ikenai.koto/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="MS Pictures" tvg-logo="https://hstream.moe/images/hentai/ienai-koto-the-animation/cover-ep-1.webp", Ienai Koto The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+ttps://koneko-str.musume-h.xyz/2023/Ienai.Koto.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Pink Pineapple" tvg-logo="https://hstream.moe/images/hentai/hatsujou-switch-otosareta-shoujo-tachi-the-animation/cover-ep-1.webp", Hatsujou Switch: Otosareta Shoujo-tachi - The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Hatsujou.Switch.Otosareta.Shoujotachi.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/ran-sem-hakudaku-delmo-tsuma-no-miira-tori/cover-ep-2.webp", Ran-Sem: Hakudaku Delmo Tsuma no Miira Tori - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Ran.Sem.Hakudaku.Delmo.Tsuma.no.Miira.Tori/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Suzuki Mirano" tvg-logo="https://hstream.moe/images/hentai/ran-sem-hakudaku-delmo-tsuma-no-miira-tori/cover-ep-1.webp", Ran-Sem: Hakudaku Delmo Tsuma no Miira Tori - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Ran.Sem.Hakudaku.Delmo.Tsuma.no.Miira.Tori/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/tsumamigui-3-the-animation/cover-ep-2.webp", Tsumamigui 3 The Animation - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Tsumamigui.3.The.Animation/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/tsumamigui-3-the-animation/cover-ep-1.webp", Tsumamigui 3 The Animation - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Tsumamigui.3.The.Animation/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-ero-konbini-tenchou/cover-ep-6.webp", JK to Ero Konbini Tenchou - 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/JK.to.Ero.Konbini.Tenchou/E06v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-ero-konbini-tenchou/cover-ep-5.webp", JK to Ero Konbini Tenchou - 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/JK.to.Ero.Konbini.Tenchou/E05v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-ero-konbini-tenchou/cover-ep-4.webp", JK to Ero Konbini Tenchou - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/JK.to.Ero.Konbini.Tenchou/E04v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-ero-konbini-tenchou/cover-ep-3.webp", JK to Ero Konbini Tenchou - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/JK.to.Ero.Konbini.Tenchou/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-ero-konbini-tenchou/cover-ep-2.webp", JK to Ero Konbini Tenchou - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/JK.to.Ero.Konbini.Tenchou/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/jk-to-ero-konbini-tenchou/cover-ep-1.webp", JK to Ero Konbini Tenchou - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/JK.to.Ero.Konbini.Tenchou/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/triangle-blue/cover-ep-2.webp", Triangle Blue - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Triangle.Blue/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/triangle-blue/cover-ep-1.webp", Triangle Blue - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Triangle.Blue/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/shocking-pink/cover-ep-2.webp", Shocking Pink! - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Shocking.Pink/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/shocking-pink/cover-ep-1.webp", Shocking Pink! - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Shocking.Pink/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/hhh-triple-ecchi/cover-ep-1.webp", HHH Triple Ecchi - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/HHH.Triple.Ecchi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/hhh-triple-ecchi/cover-ep-2.webp", HHH Triple Ecchi - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/HHH.Triple.Ecchi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="L." tvg-logo="https://hstream.moe/images/hentai/princess-lover/cover-ep-2.webp", Princess Lover! - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Princess.Lover/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="L." tvg-logo="https://hstream.moe/images/hentai/princess-lover/cover-ep-1.webp", Princess Lover! - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Princess.Lover/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/chijoku-no-seifuku/cover-ep-2.webp", Chijoku no Seifuku - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Chijoku.no.Seifuku/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/chijoku-no-seifuku/cover-ep-1.webp", Chijoku no Seifuku - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Chijoku.no.Seifuku/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/kime-koi/cover-ep-1.webp", Kime Koi! - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Kime.Koi/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Mary Jane" tvg-logo="https://hstream.moe/images/hentai/kime-koi/cover-ep-2.webp", Kime Koi! - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Kime.Koi/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="T-Rex" tvg-logo="https://hstream.moe/images/hentai/dekakute-ecchi-na-ore-no-ane/cover-ep-1.webp", Dekakute Ecchi na Ore no Ane - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Dekakute.Ecchi.na.Ore.no.Ane/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/nuki-doki-tenshi-to-akuma-no-sakusei-battle-revolution/cover-ep-4.webp", Nuki Doki! Tenshi to Akuma no Sakusei Battle Revolution - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://koneko-str.musume-h.xyz/2023/Nuki.Doki.Tenshi.to.Akuma.no.Sakusei.Battle.Revolution/E04/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/nuki-doki-tenshi-to-akuma-no-sakusei-battle-revolution/cover-ep-3.webp", Nuki Doki! Tenshi to Akuma no Sakusei Battle Revolution - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Nuki.Doki.Tenshi.to.Akuma.no.Sakusei.Battle.Revolution/E03/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/nuki-doki-tenshi-to-akuma-no-sakusei-battle-revolution/cover-ep-2.webp", Nuki Doki! Tenshi to Akuma no Sakusei Battle Revolution - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Nuki.Doki.Tenshi.to.Akuma.no.Sakusei.Battle.Revolution/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/nuki-doki-tenshi-to-akuma-no-sakusei-battle-revolution/cover-ep-1.webp", Nuki Doki! Tenshi to Akuma no Sakusei Battle Revolution - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Nuki.Doki.Tenshi.to.Akuma.no.Sakusei.Battle.Revolution/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/nuki-doki-tenshi-to-akuma-no-sakusei-battle/cover-ep-2.webp", Nuki Doki! Tenshi to Akuma no Sakusei Battle - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Nuki.Doki.Tenshi.to.Akuma.no.Sakusei.Battle/E02/720/manifest.mpd
+
+#EXTINF:0 group-title="Collaboration Works" tvg-logo="https://hstream.moe/images/hentai/nuki-doki-tenshi-to-akuma-no-sakusei-battle/cover-ep-1.webp", Nuki Doki! Tenshi to Akuma no Sakusei Battle - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Nuki.Doki.Tenshi.to.Akuma.no.Sakusei.Battle/E01/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oide-yo-shiritsu-yarimakuri-gakuen/cover-ep-4.webp", Oide yo! Shiritsu Yarimakuri Gakuen - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2023/Oide.yo.Shiritsu.Yarimakuri.Gakuen/E04v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oide-yo-shiritsu-yarimakuri-gakuen/cover-ep-3.webp", Oide yo! Shiritsu Yarimakuri Gakuen - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2023/Oide.yo.Shiritsu.Yarimakuri.Gakuen/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oide-yo-shiritsu-yarimakuri-gakuen/cover-ep-2.webp", Oide yo! Shiritsu Yarimakuri Gakuen - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2023/Oide.yo.Shiritsu.Yarimakuri.Gakuen/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/oide-yo-shiritsu-yarimakuri-gakuen/cover-ep-1.webp", Oide yo! Shiritsu Yarimakuri Gakuen - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://oppai-str.shoujo-h.org/2023/Oide.yo.Shiritsu.Yarimakuri.Gakuen/E01v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/tsugunai/cover-ep-4.webp", Tsugunai - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://imoto-str.ane-h.xyz/2022/Tsugunai/E04v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/tsugunai/cover-ep-3.webp", Tsugunai - 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2022/Tsugunai/E03v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/tsugunai/cover-ep-2.webp", Tsugunai - 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://shinobu-str.rorikon-h.xyz/2022/Tsugunai/E02v2/720/manifest.mpd
+
+#EXTINF:0 group-title="PoRO" tvg-logo="https://hstream.moe/images/hentai/tsugunai/cover-ep-1.webp", Tsugunai - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://chibi-str.imoto-h.xyz/2022/Tsugunai/E01v2/720/manifest.mpd
+
