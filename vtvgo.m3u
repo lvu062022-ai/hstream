@@ -20,14 +20,6 @@ https://vtvgolive-vtv02.vtvdigital.vn/5P8ai3ScpJjycla948XaMw/1784607154/hls/vtv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vtvgolive-vtv02.vtvdigital.vn/rOWNONGEyY0Q0Ed02vfj-w/1784606221/hls/vtv/live/vtv6__vtv480p-h264/index.m3u8
 
-#EXTINF:0 group-title="VTV Go" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/ee85e0cb-9878-414d-be21-33eaa4132898.jpg?width=500",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://vtvgolive-vtvcab.vtvdigital.vn/O8iBouGRE9sYaddupXm2lw/1784564173/vtvcabvtvgo/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
-
-#EXTINF:0 group-title="VTV Go" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/1279e429-6991-4f0c-be21-9dc75e29ca5c.jpg?width=500",NTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://vtvgolive-liveh12.vtvdigital.vn/izRHieWffwlh1cWYL50aYg/1784564203/hls/NGHEANTV/02.m3u8
-
 #EXTINF:0 group-title="VTV Go" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vtvgolive-vtv02.vtvdigital.vn/9M58e5DJONm0c9dTPFkAWg/1784607233/hls/vtv/live/vtv9__vtv480p-h264/index.m3u8
